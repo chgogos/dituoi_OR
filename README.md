@@ -17,4 +17,3 @@ $ pip install docplex
 
 ## IBM ILOG CPLEX
 * [IBM® Decision Optimization CPLEX® Modeling for Python](http://ibmdecisionoptimization.github.io/docplex-doc/)
-* [IBM® Decision Optimization Tutorials for Python (DOcplex)](https://github.com/IBMDecisionOptimization/tutorials)
