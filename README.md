@@ -1,13 +1,16 @@
 # Επιχειρησιακή Έρευνα
 
+* [cognitiveclass.ai](https://courses.cognitiveclass.ai/)
+  * [Mathematical Optimization for Business Problems](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CP0101EN+v1/course/)
+
+## Επιλυτής IBM ILOG CPLEX
+
 **εγκατάσταση modules**
 
 ```
 $ pip install cplex
 $ pip install docplex
 ```
-
-## IBM ILOG CPLEX
 
 * [IBM® Decision Optimization CPLEX® Modeling for Python](http://ibmdecisionoptimization.github.io/docplex-doc/)
 * [Tutorials](./IBM_DO_Tutorials/README.md)
