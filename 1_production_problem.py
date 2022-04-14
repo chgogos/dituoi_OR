@@ -2,7 +2,7 @@
 from docplex.mp.model import Model
 
 # create one model instance, with a name
-m = Model(name='telephone_production')
+m = Model(name='telephone_production', log_output=True)
 
 # by default, all variables in Docplex have a lower bound of 0 and infinite upper bound
 desk = m.continuous_var(name='desk')

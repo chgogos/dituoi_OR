@@ -14,6 +14,16 @@ $ pip install cplex
 $ pip install docplex
 ```
 
-
 ## IBM ILOG CPLEX
+
 * [IBM® Decision Optimization CPLEX® Modeling for Python](http://ibmdecisionoptimization.github.io/docplex-doc/)
+
+
+## Άλλοι επιλυτές
+
+* [Pyomo](http://www.pyomo.org/)
+* [PuLP]](https://coin-or.github.io/pulp/#)
+* [PyMathProg](http://pymprog.sourceforge.net/)
+* [Python-MIP](https://www.python-mip.com/)
+* [Google OR-Tools](https://developers.google.com/optimization)
+* [SCIP](https://www.scipopt.org/)
