@@ -14,17 +14,22 @@ $ pip install docplex
 
 * [IBM® Decision Optimization CPLEX® Modeling for Python](http://ibmdecisionoptimization.github.io/docplex-doc/)
 * [Tutorials](./IBM_DO_Tutorials/README.md)
-* [Coding perspective - Mathematical Optimization in Pythonwith CPLEX](https://www.youtube.com/playlist?list=PLaxOs-8sLebuytu-pPSM4mtsR5VVlFtyW)
+* [Coding perspective - Mathematical Optimization in Python with CPLEX (YouTube)](https://www.youtube.com/playlist?list=PLaxOs-8sLebuytu-pPSM4mtsR5VVlFtyW)
 
 ## Άλλοι επιλυτές
 
 * [Pyomo](http://www.pyomo.org/)
-* [PuLP]](https://coin-or.github.io/pulp/#)
+* [PuLP](https://coin-or.github.io/pulp/#)
 * [PyMathProg](http://pymprog.sourceforge.net/)
 * [Python-MIP](https://www.python-mip.com/)
 * [Google OR-Tools](https://developers.google.com/optimization)
 * [SCIP](https://www.scipopt.org/)
 
+
+## Άλλα χρήσιμα εργαλεία
+
+* [Gusek](http://gusek.sourceforge.net/gusek.html) επίλυση προβλημάτων σε μορφή .lp
+  * Παράδειγμα .lp αρχείου [production_problem.lp](./production_problem.lp)
 
 ---
 

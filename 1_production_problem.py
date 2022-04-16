@@ -42,3 +42,6 @@ print('* dual value for assembly time constraint is: {0}'.format(ct_assembly.dua
 # dual value for painting time constraint
 print('* dual value for painting time constraint is: {0}'.format(ct_painting.dual_value))
 
+# export problem as .lp
+m.export_as_lp("production_problem.lp")
+
