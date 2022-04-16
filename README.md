@@ -16,6 +16,12 @@ $ pip install docplex
 * [Tutorials](./IBM_DO_Tutorials/README.md)
 * [Coding perspective - Mathematical Optimization in Python with CPLEX (YouTube)](https://www.youtube.com/playlist?list=PLaxOs-8sLebuytu-pPSM4mtsR5VVlFtyW)
 
+
+**Παραδείγματα κώδικα**
+
+* [simple_lp.py](./simple_lp.py)
+* [production_problem.py](./production_problem.py)
+
 ## Άλλοι επιλυτές
 
 * [Pyomo](http://www.pyomo.org/)
@@ -30,6 +36,7 @@ $ pip install docplex
 
 * [Gusek](http://gusek.sourceforge.net/gusek.html) επίλυση προβλημάτων σε μορφή .lp
   * Παράδειγμα .lp αρχείου [production_problem.lp](./production_problem.lp)
+    * [Ανάλυση ευαισθησίας](./production_problem_SA.txt)
 
 ---
 

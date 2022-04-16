@@ -1,0 +1,35 @@
+GLPK 4.65 - SENSITIVITY ANALYSIS REPORT                                                                         Page   1
+
+Problem:    
+Objective:  obj = 20600 (MAXimum)
+
+   No. Row name     St      Activity         Slack   Lower bound       Activity      Obj coef  Obj value at Limiting
+                                          Marginal   Upper bound          range         range   break point variable
+------ ------------ -- ------------- ------------- -------------  ------------- ------------- ------------- ------------
+     1 c1           BS     300.00000    -200.00000     100.00000         .           -2.00000   20000.00000 c4
+                                            .               +Inf      900.00000      13.00000   24500.00000 c3
+
+     2 c2           BS     850.00000    -750.00000     100.00000         .          -10.40000   11760.00000 c3
+                                            .               +Inf      950.00000       4.00000   24000.00000 c4
+
+     3 c3           NU     400.00000        .               -Inf      220.00000     -43.33333   12800.00000 c2
+                                          43.33333     400.00000      460.00000          +Inf   23200.00000 c1
+
+     4 c4           NU     490.00000        .               -Inf      430.00000      -6.66667   20200.00000 c1
+                                           6.66667     490.00000      940.00000          +Inf   23600.00000 c2
+
+GLPK 4.65 - SENSITIVITY ANALYSIS REPORT                                                                         Page   2
+
+Problem:    
+Objective:  obj = 20600 (MAXimum)
+
+   No. Column name  St      Activity      Obj coef   Lower bound       Activity      Obj coef  Obj value at Limiting
+                                          Marginal   Upper bound          range         range   break point variable
+------ ------------ -- ------------- ------------- -------------  ------------- ------------- ------------- ------------
+     1 desk         BS     300.00000      12.00000        .           100.00000      10.00000   20000.00000 c4
+                                            .               +Inf      900.00000      25.00000   24500.00000 c3
+
+     2 cell         BS     850.00000      20.00000        .           100.00000       9.60000   11760.00000 c3
+                                            .               +Inf      950.00000      24.00000   24000.00000 c4
+
+End of report
