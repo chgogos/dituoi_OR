@@ -14,6 +14,7 @@ $ pip install docplex
 
 * [IBM® Decision Optimization CPLEX® Modeling for Python](http://ibmdecisionoptimization.github.io/docplex-doc/)
 * [Tutorials](./IBM_DO_Tutorials/README.md)
+* [Coding perspective - Mathematical Optimization in Pythonwith CPLEX](https://www.youtube.com/playlist?list=PLaxOs-8sLebuytu-pPSM4mtsR5VVlFtyW)
 
 ## Άλλοι επιλυτές
 
