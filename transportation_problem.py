@@ -25,7 +25,7 @@ for j in target:
 # each arc comes with a cost. Minimize all costed flows
 tm.minimize(tm.sum(x[i,j]*costs[i,j] for i, j in costs))
 tm.print_information()
-
+tm.export_as_lp("transportation_problem.lp")
 tms = tm.solve()
 assert tms
 tms.display()

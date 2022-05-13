@@ -1,5 +1,13 @@
 # Επιχειρησιακή Έρευνα
 
+* [Εργασία εαρινό 2021-2022](./2021-2022e_project.pdf)
+* Δεδομένα 
+  * [registrations_22.xlsx](./registrations_22.xlsx)
+  * [registrations_100.xlsx](./registrations_100.xlsx)
+  * [registrations_200.xlsx](./registrations_200.xlsx)
+
+## MOOC
+
 * [cognitiveclass.ai](https://courses.cognitiveclass.ai/)
   * [Mathematical Optimization for Business Problems](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CP0101EN+v1/course/)
 
