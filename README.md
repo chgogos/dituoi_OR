@@ -42,9 +42,15 @@ $ pip install docplex
   * Παράδειγμα .lp αρχείου [production_problem.lp](./production_problem.lp)
     * [Ανάλυση ευαισθησίας](./production_problem_SA.txt)
 
+## Διάφορα
+
+* [OR in practice - working group](https://www.euro-online.org/websites/or-in-practice/)
+* [Subject To podcast](https://www.youtube.com/channel/UCKMY2i-ROJjOXCxePFewnkg/featured)
+* [Scheduling Seminar](https://schedulingseminar.com/)
+
 ---
 
-**setup python environment με το conda**
+**Setup python environment με το conda**
 
 ```
 $ conda create --name cplex_community_env python=3.8
